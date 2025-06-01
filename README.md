@@ -26,6 +26,8 @@ Seule votre agilité et votre persévérance vous permettront de **vous réveill
 
 ## Lien du jeu (non terminé)
 🎮 [https://florentdiabi.github.io/DreaMiage/](https://florentdiabi.github.io/DreaMiage/)
----
+
+## Lien de la vidéo de présentation
+📺 [https://www.youtube.com/watch?v=QTJRMV0vDEI](https://www.youtube.com/watch?v=QTJRMV0vDEI)
 
 > Un projet réalisé dans le cadre de la formation MIAGE d'Aix-Marseille.
