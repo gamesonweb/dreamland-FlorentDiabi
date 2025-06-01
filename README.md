@@ -21,6 +21,19 @@ Seule votre agilité et votre persévérance vous permettront de **vous réveill
 - Éviter les pièges et obstacles  
 - Sortir du cauchemar
 
+## Contrôles du jeu
+
+| Touche / Action         | Effet                           |
+|-------------------------|---------------------------------|
+| `Z`                     | Avancer                         |
+| `S`                     | Reculer                         |
+| `Q`                     | Aller à gauche                  |
+| `D`                     | Aller à droite                  |
+| `Shift`                 | Sprinter                        |
+| `Échap`                 | Ouvrir le menu pause            |
+| Déplacement souris      | Contrôle de la caméra           |
+| Molette souris (scroll) | Zoom / Dézoom de la caméra      |
+
 ## Lien du dépôt GitHub
 👉 [https://github.com/FlorentDiabi/DreaMiage](https://github.com/FlorentDiabi/DreaMiage)
 
